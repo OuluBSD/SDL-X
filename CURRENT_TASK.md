@@ -1,0 +1,2 @@
+- we are converting this code to be compilable with msys toolchain on windows (and in linux too)
+- we are going to fix build issues by following README.md (clone that repository and include necessary code here)
